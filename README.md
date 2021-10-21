@@ -1,6 +1,6 @@
 Olá, eu sou o Guilherme! 
 <h3>◻Sobre mim</h3>
-🔹 Atualmente não trabalho na área, mas conforme vou me aperfeiçoando para logo está fazendo a diferença. <br>
+🔹 Atualmente não trabalho na área, mas conforme vou me aperfeiçoando, e logo está fazendo a diferença. <br>
 <br>
 👨‍🎓 Estudante de Tecnologia em Sistemas para Internet , atualmente estou cursando o 1° semestre. <br>
 <br>
