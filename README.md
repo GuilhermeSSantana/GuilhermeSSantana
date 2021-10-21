@@ -1,6 +1,12 @@
 Olá, eu sou o Guilherme! 
 <h3>◻Sobre mim</h3>
-
+🔹 Atualmente não trabalho na área, mas conforme vou me aperfeiçoando para logo está fazendo a diferença. <br>
+<br>
+👨‍🎓 Estudante de Tecnologia em Sistemas para Internet , atualmente estou cursando o 1° semestre. <br>
+<br>
+🔹  Está preparado para os projetos futuros? Eu estou disposto a novos conhecimentos.<br>
+<br>
+🔹  Eu estou pronto para novas oportunidades.
 
 <div style="display:inline_block"><br>
   <h3>◻Minhas skills</h3>
