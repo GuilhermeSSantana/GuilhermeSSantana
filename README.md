@@ -6,8 +6,8 @@ Olá, eu sou o Guilherme!
 <br>
 🔹  Está preparado para os projetos futuros? Eu estou disposto a novos conhecimentos.<br>
 <br>
-🔹  Eu estou pronto para novas oportunidades.
-
+🔹  Eu estou pronto para novas oportunidades.<br>
+<br>
 🔹 Ainda sem experiência no mercado de trabalho.
 
 <div style="display:inline_block"><br>
