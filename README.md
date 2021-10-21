@@ -18,3 +18,4 @@ Olá, eu sou o Guilherme!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeSSantana&show_icons=true&dark=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSSantana)](https://github.com/GuilhermeSSantana/github-readme-stats)
+
