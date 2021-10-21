@@ -8,6 +8,8 @@ Olá, eu sou o Guilherme!
 <br>
 🔹  Eu estou pronto para novas oportunidades.
 
+🔹 Ainda sem experiência no mercado de trabalho.
+
 <div style="display:inline_block"><br>
   <h3>◻Minhas skills</h3>
   <img align="center" alt="Guilherme-JS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
