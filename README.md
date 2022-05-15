@@ -1,20 +1,31 @@
-Olá, eu sou o Guilherme! 
+<h2>Olá, eu sou o Guilherme!</h2> 
+        ◻Sobre mim
+<h4>🔹 Atualmente não trabalho na área, mas conforme vou me aperfeiçoando, e logo estarei fazendo a diferença. </h4>
 
-<div style="display:inline_block"><br>
+<h4>👨‍🎓 Estudante de Tecnologia em Sistemas para Internet , atualmente estou cursando o 2° semestre.</h4>
 
-  <h3>◻Minhas skills</h3>
+<h4>🔹 Eu estou pronto para novas oportunidades. </h4>
+
+<h3>◻Minhas skills</h3>
+
 <br>
-  <img align="center" alt="Guilherme-JS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<div>
+  <img align="center" alt="Guilherme-JS" height="49" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+
   <img align="center" alt="Guilherme-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+
   <img align="center" alt="Guilherme-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 
+  <img align="center" alt="Guilherme-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
+
+  <img align="center" alt="Guilherme-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  
 </div>
 
 <br>
 
 <a href="https://www.linkedin.com/in/guilherme-santana-81a909182/">
-<img align="center" alt="Guilherme-CSS" height="30" width="70" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
-
+<img align="center" alt="Guilherme-CSS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> </a> </p>
 
 <br>
 
