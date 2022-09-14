@@ -2,11 +2,11 @@
         ◻Sobre mim
 <h4>🔹 Desenvolvedor Full-Stack Junior, trabalhando com o desenvolvimento de Painel administrativo.</h4>
 
-<h4>🔹 STACK USADAS NODEJS, REACTJS, TYPESCRIPT, POSTGRESQL, MONGO</h4>
-
 <h4>👨‍🎓 Estudante de Tecnologia em Sistemas para Internet , atualmente estou cursando o 3° semestre.</h4>
 
 <h4>🔹 Eu estou pronto para novas oportunidades. </h4>
+
+<h4>🔹 STACK USADAS NODEJS, REACTJS, TYPESCRIPT, POSTGRESQL, MONGO</h4>
 
 <h3>◻Minhas skills</h3>
 
