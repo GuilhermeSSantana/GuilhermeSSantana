@@ -31,5 +31,4 @@
 
 <br>
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeSSantana&show_icons=true&theme=radical)<br> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSSantana&langs_count=8)](https://github.com/GuilhermeSSantana/github-readme-stats)
+
